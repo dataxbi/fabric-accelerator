@@ -6,7 +6,7 @@ targetScope = 'subscription'
 param dprg string= 'fabric-accelerator'
 
 @description('Microsoft Fabric Resource group location')
-param rglocation string = 'europewest'
+param rglocation string = 'westeurope'
 
 @description('Email of Fabric Capacity Administrator')
 param fabric_capacity_admin_email string
