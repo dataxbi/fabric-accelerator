@@ -42,7 +42,7 @@
       "name": "dw-gold",
       "type": "FabricOneLakeEvents",
       "properties": {
-        "tenantId": "4e921ed2-9b1c-457c-a917-16ef468eb90a",
+        "tenantId": "e6816e25-41db-4bb7-b1a6-25a718776f8c",
         "workspaceId": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec",
         "itemId": "5d5c49a2-6db0-4105-ad4c-77907c05d822",
         "oneLakePaths": [
@@ -64,7 +64,7 @@
       "name": "lh-bronze-storage",
       "type": "FabricOneLakeEvents",
       "properties": {
-        "tenantId": "4e921ed2-9b1c-457c-a917-16ef468eb90a",
+        "tenantId": "e6816e25-41db-4bb7-b1a6-25a718776f8c",
         "workspaceId": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec",
         "itemId": "1c30fc94-8481-4603-ac84-33958e4d4212",
         "oneLakePaths": [
@@ -104,7 +104,7 @@
       "name": "lh-silver-storage",
       "type": "FabricOneLakeEvents",
       "properties": {
-        "tenantId": "4e921ed2-9b1c-457c-a917-16ef468eb90a",
+        "tenantId": "e6816e25-41db-4bb7-b1a6-25a718776f8c",
         "workspaceId": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec",
         "itemId": "a3d340e4-45c0-49e1-b5cc-deff1c34f872",
         "oneLakePaths": [
